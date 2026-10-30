@@ -1,0 +1,61 @@
+{
+ "country": "US-MT",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Mont. Const.",
+   "title": "Constitution of the State of Montana",
+   "url": "https://mca.legmt.gov/bills/mca/title_0000/chapters_index.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 167,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0000/chapters_index.html",
+     "sha256": "6811710f53e83e8b7388f1c9816a21fede5b48c9f5794eb8037653daed4b1c75"
+    }
+   ]
+  },
+  {
+   "slug": "title-35-corporations",
+   "short": "MCA 35",
+   "title": "Montana Code Annotated, Title 35: Corporations, Partnerships, Associations",
+   "url": "https://mca.legmt.gov/bills/mca/title_0350/chapters_index.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1801,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0350/chapters_index.html",
+     "sha256": "63aab503064710e2b3fa2aaf621e77d999db1be9afecae8ab62a2343a3a96809"
+    }
+   ]
+  },
+  {
+   "slug": "title-45-crimes",
+   "short": "MCA 45",
+   "title": "Montana Code Annotated, Title 45: Crimes",
+   "url": "https://mca.legmt.gov/bills/mca/title_0450/chapters_index.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 390,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0450/chapters_index.html",
+     "sha256": "fb5e9292555f426073a5e3d99871169f96698258c2d81ab9a7ae5dede9cc3a3d"
+    }
+   ]
+  },
+  {
+   "slug": "title-70-property",
+   "short": "MCA 70",
+   "title": "Montana Code Annotated, Title 70: Property",
+   "url": "https://mca.legmt.gov/bills/mca/title_0700/chapters_index.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 954,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0700/chapters_index.html",
+     "sha256": "7beffb673c7292374249f28159831fc3542b78cb30143fa56b73ddbc830fb2a0"
+    }
+   ]
+  }
+ ]
+}
