@@ -1,40 +1,18 @@
 # Montana: law history in git
 
-The statute law of Montana as a git repository: one file per section, committed with the official publisher named as author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
+This history retains the four previously published acts. Their existing dates and text are legacy records awaiting source/date review. No additional title is certified or added in this update.
 
-**What is in it now (a first build, not complete)**
+| Folder | Legacy sections | Source/date status |
+| --- | ---: | --- |
+| `constitution/` | 167 | Held for source/date review |
+| `title-35-corporations/` | 1801 | Held for source/date review |
+| `title-45-crimes/` | 390 | Held for source/date review |
+| `title-70-property/` | 954 | Held for source/date review |
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution of the State of Montana (167 sections) | 1 | One version: the 2025 edition as the Legislative Services Division publishes it, retrieved 2026-10-28 |
-| `title-35-corporations/` | Montana Code Annotated, Title 35: Corporations, Partnerships, Associations (1801 sections) | 1 | One version: the 2025 edition as the Legislative Services Division publishes it, retrieved 2026-10-28 |
-| `title-45-crimes/` | Montana Code Annotated, Title 45: Crimes (390 sections) | 1 | One version: the 2025 edition as the Legislative Services Division publishes it, retrieved 2026-10-28 |
-| `title-70-property/` | Montana Code Annotated, Title 70: Property (954 sections) | 1 | One version: the 2025 edition as the Legislative Services Division publishes it, retrieved 2026-10-28 |
+Source: Montana Code Annotated 2025, Montana Legislative Services Division, <https://mca.legmt.gov/bills/mca/index.html>. The official edition is labelled “Updated August 2026”. That label supplies a month, not an exact day; a retrieval day is not substituted for it. The proposed 54-act current-text expansion is held until its dates have an approved source-backed representation.
 
-Nothing else of Montana's law is in it yet.
+The source includes dated alternatives, conditional alternatives and continuation text. Dated wording applies from its stated effective date. An unresolved contingency holds the affected act; block order alone does not establish current wording. Unlabelled continuation text, including signing lists, is retained.
 
-## Where the text comes from
+The corrected reader retains the publisher’s punctuation, paragraph order, nested forms and textual tables. It requires an explicit as-of date and source-backed date plan for new corpus versions. Earlier editions and reconstructed amendment history are outside this update. The printed MCA prevails over the Internet version.
 
-The text is read from the **Montana Code Annotated 2025** (the page header reads "Updated August 2026") on <https://mca.legmt.gov/bills/mca/index.html>, which the Legislative Services Division publishes as one static HTML page per section. The Constitution (about 190 requests, one a second) was fetched on 30 October 2026; Each section keeps its catchline, its text and the History note naming the session laws behind it. Compiler's comments and cross-references are not taken.
-
-## Dates
-
-- Each act has **one version**, dated 28 October 2026, the day the edition was first retrieved (the Constitution's pages were fetched on 30 October 2026 from the same edition). It is the oldest version available in this build: older MCA editions exist online (1995 to 2023) but are not in this first build.
-- The first commit of each act is credited to the Legislative Services Division as "oldest version available".
-- The session laws in each History note are part of the text, not the commit dates.
-
-## What it does not show
-
-- Any amendment history: the editions before 2025.
-- The other 70-odd titles of the MCA, session laws and regulations.
-- Compiler's comments, cross-references and other annotations.
-- Nothing here is an official publication: the printed MCA prevails over the Internet version.
-
-## How it is checked
-
-- Every unit is read back from git on its day and compared with the corpus (`tools/check_repo.py`; results in `REPRODUCE.md`).
-- Each source file is identified by its sha256, in `data/versions.json`.
-
-## What "author" means
-
-Each commit is authored by the publisher (the Montana Legislative Services Division) because this first build holds one version of each act, the oldest version available. The committer is always Lexifina.
+MCA 1-11-304 states that the Code is the property of the State and may not be copyrighted.
