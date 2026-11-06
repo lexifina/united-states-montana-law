@@ -1,5 +1,7 @@
 # Montana: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Montana, United States, which global-law reads at `united-states/montana/acts/`.
+
 This history retains the four previously published acts. Their existing dates and text are legacy records awaiting source/date review. No additional title is certified or added in this update.
 
 | Folder | Legacy sections | Source/date status |
