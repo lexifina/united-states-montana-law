@@ -458,6 +458,64 @@
      "sha256": "9553721b6116c275ea9868eff04223a1c9adfc4abd79e377bc4a29e3112f31bb"
     }
    ]
+  },
+  {
+   "slug": "title-20-education",
+   "short": "MCA 20",
+   "title": "Montana Code Annotated, Title 20: Education",
+   "url": "https://mca.legmt.gov/bills/mca/title_0200/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1338,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0200/chapters_index.html",
+     "sha256": "2e82897c745c20c53dbe38acde1a0d2f26dd01451bd9d32e20ab9b4659d13419"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 1340,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0200/chapters_index.html",
+     "sha256": "2e82897c745c20c53dbe38acde1a0d2f26dd01451bd9d32e20ab9b4659d13419"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1356,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0200/chapters_index.html",
+     "sha256": "74c8b1357e5711927928093515d8a0cd49b81a48465db1126450c68ec1d9c1d7"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-libraries-arts-and-antiquities",
+   "short": "MCA 22",
+   "title": "Montana Code Annotated, Title 22: Libraries, Arts, and Antiquities",
+   "url": "https://mca.legmt.gov/bills/mca/title_0220/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 247,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0220/chapters_index.html",
+     "sha256": "76eb45115ae84c1793bb3c3882dbca3458b8538880ee7de0d16d9b70e4623f97"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 247,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0220/chapters_index.html",
+     "sha256": "76eb45115ae84c1793bb3c3882dbca3458b8538880ee7de0d16d9b70e4623f97"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 250,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0220/chapters_index.html",
+     "sha256": "d67ea2eb8ac8470b9ec682702a8ef60ef4a62354591a442c0c454b543301f7af"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 250,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0220/chapters_index.html",
+     "sha256": "d67ea2eb8ac8470b9ec682702a8ef60ef4a62354591a442c0c454b543301f7af"
+    }
+   ]
   }
  ]
 }
