@@ -362,6 +362,64 @@
      "sha256": "50c330ac1b82dcc149a3e65fa7fb15d69174ba62cfce109047c68cb1d6acd861"
     }
    ]
+  },
+  {
+   "slug": "title-17-state-finance",
+   "short": "MCA 17",
+   "title": "Montana Code Annotated, Title 17: State Finance",
+   "url": "https://mca.legmt.gov/bills/mca/title_0170/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 592,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0170/chapters_index.html",
+     "sha256": "b9ed4a29502244da03d9035cf9bfef3bf2626fb91b5124f9ffc5082adad402cd"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 601,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0170/chapters_index.html",
+     "sha256": "5a8dfa8a4951f4ff3d03ce739f11ee32d509555e724afc16afe7fd2b3b3cf792"
+    },
+    {
+     "from": "2028-07-01",
+     "units": 601,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0170/chapters_index.html",
+     "sha256": "5a8dfa8a4951f4ff3d03ce739f11ee32d509555e724afc16afe7fd2b3b3cf792"
+    },
+    {
+     "from": "2031-07-01",
+     "units": 601,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0170/chapters_index.html",
+     "sha256": "5a8dfa8a4951f4ff3d03ce739f11ee32d509555e724afc16afe7fd2b3b3cf792"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-public-contracts",
+   "short": "MCA 18",
+   "title": "Montana Code Annotated, Title 18: Public Contracts",
+   "url": "https://mca.legmt.gov/bills/mca/title_0180/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 286,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0180/chapters_index.html",
+     "sha256": "bfde63356087e0023a87becb93646f57dcaaf03d4d2f472c17e49aef435085df"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 290,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0180/chapters_index.html",
+     "sha256": "453985d38b0072779a5a9eb756852d51530196b2becacb90696a14bab8bc13b2"
+    },
+    {
+     "from": "2033-07-02",
+     "units": 290,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0180/chapters_index.html",
+     "sha256": "453985d38b0072779a5a9eb756852d51530196b2becacb90696a14bab8bc13b2"
+    }
+   ]
   }
  ]
 }
