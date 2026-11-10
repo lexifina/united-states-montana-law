@@ -34,20 +34,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-19-public-retirement-systems` | Montana Code Annotated, Title 19: Public Retirement Systems | 5 | 2023-10-01 to 2029-07-01 |
 | `title-20-education` | Montana Code Annotated, Title 20: Education | 3 | 2023-10-01 to 2025-10-01 |
 | `title-22-libraries-arts-and-antiquities` | Montana Code Annotated, Title 22: Libraries, Arts, and Antiquities | 4 | 2023-10-01 to 2027-07-01 |
+| `title-23-parks-recreation-sports-and-gambling` | Montana Code Annotated, Title 23: Parks, Recreation, Sports, and Gambling | 3 | 2023-10-01 to 2025-10-01 |
 
-The build made 47 commits:
+The build made 50 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 18 | first version of an act |
+| 19 | first version of an act |
 | 0 | one law on its in-force day |
-| 26 | changes no amendment note explains, credited to the publisher |
+| 28 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 44 tags.
+- 47 tags.
 
 ## Dates
 
@@ -59,7 +60,7 @@ When a law gives no date of its own, the default rule applies: MCA 1-2-201(1)(a)
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8e73d26b8e8fac9c450581fef686722757c7e9d63b61675b220384f03376b9b2` (73866044 bytes).
+- Corpus: sha256 `8237c60f6b43d81081e7bc31774343630c4381a15eef9cd88b6c6202cfa31376` (75476874 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

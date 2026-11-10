@@ -516,6 +516,32 @@
      "sha256": "d67ea2eb8ac8470b9ec682702a8ef60ef4a62354591a442c0c454b543301f7af"
     }
    ]
+  },
+  {
+   "slug": "title-23-parks-recreation-sports-and-gambling",
+   "short": "MCA 23",
+   "title": "Montana Code Annotated, Title 23: Parks, Recreation, Sports, and Gambling",
+   "url": "https://mca.legmt.gov/bills/mca/title_0230/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 529,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0230/chapters_index.html",
+     "sha256": "c79103e8e8fcb4f8f9b275d8ba358823daeca000ee8ad3208f1c4b55fe34c16d"
+    },
+    {
+     "from": "2024-06-30",
+     "units": 529,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0230/chapters_index.html",
+     "sha256": "c79103e8e8fcb4f8f9b275d8ba358823daeca000ee8ad3208f1c4b55fe34c16d"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 529,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0230/chapters_index.html",
+     "sha256": "6d10287f0efc881889bc49df89f8d0a03699de83ceb206934c1d293d36dcabb5"
+    }
+   ]
   }
  ]
 }
