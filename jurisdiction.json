@@ -4,6 +4,6 @@
   "name": "Montana",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-montana-law",
-  "build": "held: four legacy published acts; proposed 54-act expansion withheld for source-backed dates and unresolved contingencies; corrected parser supplied",
+  "build": "built: Constitution of Montana and every MCA title, 2023 and 2025 editions (dated 1 October of each edition year, MCA 1-2-201), forms with later effective days on those days",
   "register_date": "2026-10-30"
 }

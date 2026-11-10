@@ -1,9 +1,10 @@
 # Constitution of the State of Montana
 
-Mont. Const. · 1 versions, from 2026-10-28 (latest in force: 2026-10-28) · <https://mca.legmt.gov/bills/mca/title_0000/chapters_index.html>
+Mont. Const. · 3 versions, from 2023-10-01 (latest in force: 2026-10-28) · <https://mca.legmt.gov/bills/mca/title_0000/chapters_index.html>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| PREAMBLE | [sec-0000-0000p-0000-0010.md](sec-0000-0000p-0000-0010.md) | 0 |  |
 | Art. I | [sec-0000-0010-0010-0010.md](sec-0000-0010-0010-0010.md) | 0 |  |
 | Art. II, Sec. 1 | [sec-0000-0020-0010-0010.md](sec-0000-0020-0010-0010.md) | 0 |  |
 | Art. II, Sec. 2 | [sec-0000-0020-0010-0020.md](sec-0000-0020-0010-0020.md) | 0 |  |
@@ -40,7 +41,7 @@ Mont. Const. · 1 versions, from 2026-10-28 (latest in force: 2026-10-28) · <ht
 | Art. II, Sec. 33 | [sec-0000-0020-0010-0330.md](sec-0000-0020-0010-0330.md) | 0 |  |
 | Art. II, Sec. 34 | [sec-0000-0020-0010-0340.md](sec-0000-0020-0010-0340.md) | 0 |  |
 | Art. II, Sec. 35 | [sec-0000-0020-0010-0350.md](sec-0000-0020-0010-0350.md) | 0 |  |
-| Art. II, Sec. 36 | [sec-0000-0020-0010-0360.md](sec-0000-0020-0010-0360.md) | 0 |  |
+| Art. II, Sec. 36 | [sec-0000-0020-0010-0360.md](sec-0000-0020-0010-0360.md) | 1 | 2025-10-01 |
 | Art. III, Sec. 1 | [sec-0000-0030-0010-0010.md](sec-0000-0030-0010-0010.md) | 0 |  |
 | Art. III, Sec. 2 | [sec-0000-0030-0010-0020.md](sec-0000-0030-0010-0020.md) | 0 |  |
 | Art. III, Sec. 3 | [sec-0000-0030-0010-0030.md](sec-0000-0030-0010-0030.md) | 0 |  |
@@ -165,6 +166,7 @@ Mont. Const. · 1 versions, from 2026-10-28 (latest in force: 2026-10-28) · <ht
 | Art. XIV, Sec. 10 | [sec-0000-0140-0010-0100.md](sec-0000-0140-0010-0100.md) | 0 |  |
 | Art. XIV, Sec. 11 | [sec-0000-0140-0010-0110.md](sec-0000-0140-0010-0110.md) | 0 |  |
 | Art. XIV | [sec-0000-0140-0010-0120.md](sec-0000-0140-0010-0120.md) | 0 |  |
+| Transition Schedule. | [sec-0000-0200-0000-0000t.md](sec-0000-0200-0000-0000t.md) | 0 |  |
 | TRANSITION SCHEDULE, Sec. 1 | [sec-0000-0200-0010-0010.md](sec-0000-0200-0010-0010.md) | 0 |  |
 | TRANSITION SCHEDULE, Sec. 2 | [sec-0000-0200-0010-0020.md](sec-0000-0200-0010-0020.md) | 0 |  |
 | TRANSITION SCHEDULE, Sec. 3 | [sec-0000-0200-0010-0030.md](sec-0000-0200-0010-0030.md) | 0 |  |

@@ -8,8 +8,20 @@
    "url": "https://mca.legmt.gov/bills/mca/title_0000/chapters_index.html",
    "versions": [
     {
+     "from": "2023-10-01",
+     "units": 168,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0000/chapters_index.html",
+     "sha256": "07b0d1f8dbd38c0d27c80a45a358807c20de6903d259bef0d684feef21dc6d31"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 169,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0000/chapters_index.html",
+     "sha256": "3f064062f8fe9c980d32727d38f009d34a395729198398d32bb3a9507ccc417c"
+    },
+    {
      "from": "2026-10-28",
-     "units": 167,
+     "units": 169,
      "source_url": "https://mca.legmt.gov/bills/mca/title_0000/chapters_index.html",
      "sha256": "6811710f53e83e8b7388f1c9816a21fede5b48c9f5794eb8037653daed4b1c75"
     }
@@ -54,6 +66,26 @@
      "units": 954,
      "source_url": "https://mca.legmt.gov/bills/mca/title_0700/chapters_index.html",
      "sha256": "7beffb673c7292374249f28159831fc3542b78cb30143fa56b73ddbc830fb2a0"
+    }
+   ]
+  },
+  {
+   "slug": "title-1-general-laws-and-definitions",
+   "short": "MCA 1",
+   "title": "Montana Code Annotated, Title 1: General Laws and Definitions",
+   "url": "https://mca.legmt.gov/bills/mca/title_0010/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 265,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0010/chapters_index.html",
+     "sha256": "d9b850431106c980d05ada5796f7424f2467b8a4f5103ebbf0cb8e6d58052ac1"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 284,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0010/chapters_index.html",
+     "sha256": "46e235c47af7a598f42abbc6285db0dba96740395a09bc0cb7c9544f4da09708"
     }
    ]
   }
