@@ -24,20 +24,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-2-government-structure-and-administration` | Montana Code Annotated, Title 2: Government Structure and Administration | 6 | 2023-10-01 to 2031-07-01 |
 | `title-3-judiciary-courts` | Montana Code Annotated, Title 3: Judiciary, Courts | 3 | 2023-10-01 to 2035-07-01 |
 | `title-5-legislative-branch` | Montana Code Annotated, Title 5: Legislative Branch | 2 | 2023-10-01 to 2025-10-01 |
+| `title-7-local-government` | Montana Code Annotated, Title 7: Local Government | 3 | 2023-10-01 to 2025-10-01 |
+| `title-10-military-affairs-and-disaster-and-emerge` | Montana Code Annotated, Title 10: Military Affairs and Disaster and Emergency Services | 4 | 2023-10-01 to 2031-07-02 |
 
-The build made 17 commits:
+The build made 23 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 8 | first version of an act |
+| 10 | first version of an act |
 | 0 | one law on its in-force day |
-| 6 | changes no amendment note explains, credited to the publisher |
+| 10 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 14 tags.
+- 20 tags.
 
 ## Dates
 
@@ -49,7 +51,7 @@ When a law gives no date of its own, the default rule applies: MCA 1-2-201(1)(a)
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `40e349e1d32401ae7604f53383d45f6bfc8232fb55a61296cfa392e56ade79dd` (13905086 bytes).
+- Corpus: sha256 `38eab27b1e47baae64b4854d122adf42eb2352ca62c4aa1d72ddb37fbd4151c2` (26742493 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -62,7 +64,7 @@ No second build of this corpus has been compared yet.
 ## Decisions made by hand
 
 - Every title of the Montana Code Annotated and the Constitution, from the 2023 and 2025 editions on mca.legmt.gov. Each edition holds the law enacted through that year's regular session; under MCA 1-2-201(1)(a) a law takes effect on 1 October after its passage unless it says otherwise, so each edition is dated 1 October of its year (2023-10-01, 2025-10-01). Laws that took effect earlier in the year are dated later than they took effect, never earlier. The 2025 edition's page says "Updated August 2026" and gives no day.
-- Where an edition prints a section in two forms with an effective clause in the catchline ("(Temporary -- effective until June 30, 2027)", "(Effective July 1, 2027)"), each version takes the form in force on its day, and the act gets a further version on each later day a printed form takes effect, up to the next edition. Forms "effective on occurrence of contingency" are left out while another form exists, and a section printed only in a contingent form is left out (5 section pages): the code does not say whether the contingency occurred.
+- Where an edition prints a section in two forms with an effective clause in the catchline ("(Temporary -- effective until June 30, 2027)", "(Effective July 1, 2027)"), each version takes the form in force on its day, and the act gets a further version on each later day a printed form takes effect, up to the next edition. Forms "effective on occurrence of contingency" are left out while another form exists, and a section printed only in a contingent form is left out (6 section pages): the code does not say whether the contingency occurred.
 - History starts with the 2023 edition: the 2021 edition is not on the host (404), and the 2017 and 2019 editions would leave October 2021 to October 2023 without text. Changes made between editions (special sessions, constitutional amendments approved at an election) are dated by the next edition, later than they took effect.
 - The four acts of the first build (the Constitution, Titles 35, 45 and 70; one version dated 2026-10-28, the retrieval day) keep that commit; as their pages are read again, correction commits add the 2023 and 2025 editions before it and set its text to the text the shipped parser reads from the pages.
 - Each section keeps its History note (the session laws behind it) as its last line; no compiler's comments, cross-references or annotations are taken.

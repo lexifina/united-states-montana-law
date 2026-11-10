@@ -178,6 +178,64 @@
      "sha256": "3408742fd314e31e3e4e1495f253c23a8ecf7dd389f4ca910bcbf3f6424ed7a5"
     }
    ]
+  },
+  {
+   "slug": "title-7-local-government",
+   "short": "MCA 7",
+   "title": "Montana Code Annotated, Title 7: Local Government",
+   "url": "https://mca.legmt.gov/bills/mca/title_0070/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 4222,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0070/chapters_index.html",
+     "sha256": "075162c8540ef4f9a6aa2564927d6f24bebe015b8e8709166b7655b863b52993"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 4223,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0070/chapters_index.html",
+     "sha256": "075162c8540ef4f9a6aa2564927d6f24bebe015b8e8709166b7655b863b52993"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 4243,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0070/chapters_index.html",
+     "sha256": "ac9650a095e63bac9b8fd5b7bbfc176e5351bb5e5fcb51f6aafe5b8df067a525"
+    }
+   ]
+  },
+  {
+   "slug": "title-10-military-affairs-and-disaster-and-emerge",
+   "short": "MCA 10",
+   "title": "Montana Code Annotated, Title 10: Military Affairs and Disaster and Emergency Services",
+   "url": "https://mca.legmt.gov/bills/mca/title_0100/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 393,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0100/chapters_index.html",
+     "sha256": "49037f19375f0e664a83ea582ce94fb7d03c474adce95f8cf56e81d211b474b5"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 393,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0100/chapters_index.html",
+     "sha256": "49037f19375f0e664a83ea582ce94fb7d03c474adce95f8cf56e81d211b474b5"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 393,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0100/chapters_index.html",
+     "sha256": "f7307ab86348f435060e17430af364e130a27e56aaab011a0d0aff774aadc5b4"
+    },
+    {
+     "from": "2031-07-02",
+     "units": 393,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0100/chapters_index.html",
+     "sha256": "f7307ab86348f435060e17430af364e130a27e56aaab011a0d0aff774aadc5b4"
+    }
+   ]
   }
  ]
 }
