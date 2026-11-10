@@ -420,6 +420,44 @@
      "sha256": "453985d38b0072779a5a9eb756852d51530196b2becacb90696a14bab8bc13b2"
     }
    ]
+  },
+  {
+   "slug": "title-19-public-retirement-systems",
+   "short": "MCA 19",
+   "title": "Montana Code Annotated, Title 19: Public Retirement Systems",
+   "url": "https://mca.legmt.gov/bills/mca/title_0190/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1120,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0190/chapters_index.html",
+     "sha256": "ad4a9d98d1a2d73b54f7ffa6eac398052315e2bdee24d96c59bd27184d026c7c"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 1121,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0190/chapters_index.html",
+     "sha256": "ad4a9d98d1a2d73b54f7ffa6eac398052315e2bdee24d96c59bd27184d026c7c"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1122,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0190/chapters_index.html",
+     "sha256": "9553721b6116c275ea9868eff04223a1c9adfc4abd79e377bc4a29e3112f31bb"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 1122,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0190/chapters_index.html",
+     "sha256": "9553721b6116c275ea9868eff04223a1c9adfc4abd79e377bc4a29e3112f31bb"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 1122,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0190/chapters_index.html",
+     "sha256": "9553721b6116c275ea9868eff04223a1c9adfc4abd79e377bc4a29e3112f31bb"
+    }
+   ]
   }
  ]
 }
