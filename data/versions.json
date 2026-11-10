@@ -158,6 +158,26 @@
      "sha256": "3d64e12e5948f0ea5b916e3e5635e6b494d397df6587b37357871057980a4398"
     }
    ]
+  },
+  {
+   "slug": "title-5-legislative-branch",
+   "short": "MCA 5",
+   "title": "Montana Code Annotated, Title 5: Legislative Branch",
+   "url": "https://mca.legmt.gov/bills/mca/title_0050/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 390,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0050/chapters_index.html",
+     "sha256": "a9dd00fe5d8a85ae5b6053e13cb688cddcabb84071bb572e84083e01bcabc9b2"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 399,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0050/chapters_index.html",
+     "sha256": "3408742fd314e31e3e4e1495f253c23a8ecf7dd389f4ca910bcbf3f6424ed7a5"
+    }
+   ]
   }
  ]
 }
