@@ -256,6 +256,112 @@
      "sha256": "e93c6ccfa90766d1a7a33cd406d26b10c26f6bca9e4d09193daa1de91208dbe3"
     }
    ]
+  },
+  {
+   "slug": "title-15-taxation",
+   "short": "MCA 15",
+   "title": "Montana Code Annotated, Title 15: Taxation",
+   "url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 2104,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0150/chapters_index.html",
+     "sha256": "87139bac176ff74b3dfe55a12cc3908e4a4ef33adff891935cbe46ed1989004c"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 2107,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0150/chapters_index.html",
+     "sha256": "87139bac176ff74b3dfe55a12cc3908e4a4ef33adff891935cbe46ed1989004c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 2107,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0150/chapters_index.html",
+     "sha256": "87139bac176ff74b3dfe55a12cc3908e4a4ef33adff891935cbe46ed1989004c"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 2107,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0150/chapters_index.html",
+     "sha256": "87139bac176ff74b3dfe55a12cc3908e4a4ef33adff891935cbe46ed1989004c"
+    },
+    {
+     "from": "2025-07-02",
+     "units": 2107,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0150/chapters_index.html",
+     "sha256": "87139bac176ff74b3dfe55a12cc3908e4a4ef33adff891935cbe46ed1989004c"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 2148,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+     "sha256": "34498b48828bf957ad87fc01b002736d2c0ab6925e778d95f07337194df30a37"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 2149,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+     "sha256": "34498b48828bf957ad87fc01b002736d2c0ab6925e778d95f07337194df30a37"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 2149,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+     "sha256": "34498b48828bf957ad87fc01b002736d2c0ab6925e778d95f07337194df30a37"
+    },
+    {
+     "from": "2027-07-02",
+     "units": 2149,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+     "sha256": "34498b48828bf957ad87fc01b002736d2c0ab6925e778d95f07337194df30a37"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 2149,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+     "sha256": "34498b48828bf957ad87fc01b002736d2c0ab6925e778d95f07337194df30a37"
+    },
+    {
+     "from": "2036-01-01",
+     "units": 2149,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+     "sha256": "34498b48828bf957ad87fc01b002736d2c0ab6925e778d95f07337194df30a37"
+    },
+    {
+     "from": "2038-07-01",
+     "units": 2149,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0150/chapters_index.html",
+     "sha256": "34498b48828bf957ad87fc01b002736d2c0ab6925e778d95f07337194df30a37"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-alcohol-tobacco-and-marijuana",
+   "short": "MCA 16",
+   "title": "Montana Code Annotated, Title 16: Alcohol, Tobacco, and Marijuana",
+   "url": "https://mca.legmt.gov/bills/mca/title_0160/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 456,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0160/chapters_index.html",
+     "sha256": "e27a5c9631bef1774f3124ba9c791085baf8a4ee2ca70813b9cbf036c0acf8ed"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 457,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0160/chapters_index.html",
+     "sha256": "e27a5c9631bef1774f3124ba9c791085baf8a4ee2ca70813b9cbf036c0acf8ed"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 479,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0160/chapters_index.html",
+     "sha256": "50c330ac1b82dcc149a3e65fa7fb15d69174ba62cfce109047c68cb1d6acd861"
+    }
+   ]
   }
  ]
 }
