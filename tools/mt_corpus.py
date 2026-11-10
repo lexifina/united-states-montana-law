@@ -68,7 +68,7 @@ def main():
         'dated by the next edition, later than they took effect.',
     ] + ([
         'The four acts of the first build (the Constitution, Titles 35, 45 and 70; one version dated 2026-10-28, the retrieval day) keep that '
-        'commit; correction commits add the 2023 and 2025 editions before it and set its text to the text the shipped parser reads from the pages.',
+        'commit; as their pages are read again, correction commits add the 2023 and 2025 editions before it and set its text to the text the shipped parser reads from the pages.',
     ] if a.fix_published else [
         'The four acts of the first build (the Constitution, Titles 35, 45 and 70) keep their one version, dated 2026-10-28 (the retrieval day), '
         'as first published, until their editions are read again.',

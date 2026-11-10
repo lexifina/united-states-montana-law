@@ -88,6 +88,76 @@
      "sha256": "46e235c47af7a598f42abbc6285db0dba96740395a09bc0cb7c9544f4da09708"
     }
    ]
+  },
+  {
+   "slug": "title-2-government-structure-and-administration",
+   "short": "MCA 2",
+   "title": "Montana Code Annotated, Title 2: Government Structure and Administration",
+   "url": "https://mca.legmt.gov/bills/mca/title_0020/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1282,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0020/chapters_index.html",
+     "sha256": "353ba774c63be478192ca91412df476942b9afefe71180d813644f8bb1f61e7e"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 1282,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0020/chapters_index.html",
+     "sha256": "353ba774c63be478192ca91412df476942b9afefe71180d813644f8bb1f61e7e"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1304,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0020/chapters_index.html",
+     "sha256": "43df32210d3ec0e5f4fcd0c3a5971dae86014ed49c3ec012d5843b3dfaab338f"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 1304,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0020/chapters_index.html",
+     "sha256": "43df32210d3ec0e5f4fcd0c3a5971dae86014ed49c3ec012d5843b3dfaab338f"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 1304,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0020/chapters_index.html",
+     "sha256": "43df32210d3ec0e5f4fcd0c3a5971dae86014ed49c3ec012d5843b3dfaab338f"
+    },
+    {
+     "from": "2031-07-01",
+     "units": 1304,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0020/chapters_index.html",
+     "sha256": "43df32210d3ec0e5f4fcd0c3a5971dae86014ed49c3ec012d5843b3dfaab338f"
+    }
+   ]
+  },
+  {
+   "slug": "title-3-judiciary-courts",
+   "short": "MCA 3",
+   "title": "Montana Code Annotated, Title 3: Judiciary, Courts",
+   "url": "https://mca.legmt.gov/bills/mca/title_0030/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 437,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0030/chapters_index.html",
+     "sha256": "1d32ba33b13f322b85cbb6ba351316bcd269366325eb647e1cdfe452ead90356"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 462,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0030/chapters_index.html",
+     "sha256": "3d64e12e5948f0ea5b916e3e5635e6b494d397df6587b37357871057980a4398"
+    },
+    {
+     "from": "2035-07-01",
+     "units": 462,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0030/chapters_index.html",
+     "sha256": "3d64e12e5948f0ea5b916e3e5635e6b494d397df6587b37357871057980a4398"
+    }
+   ]
   }
  ]
 }
