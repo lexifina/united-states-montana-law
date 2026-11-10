@@ -236,6 +236,26 @@
      "sha256": "f7307ab86348f435060e17430af364e130a27e56aaab011a0d0aff774aadc5b4"
     }
    ]
+  },
+  {
+   "slug": "title-13-elections",
+   "short": "MCA 13",
+   "title": "Montana Code Annotated, Title 13: Elections",
+   "url": "https://mca.legmt.gov/bills/mca/title_0130/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 824,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0130/chapters_index.html",
+     "sha256": "5685a8fe51d24feddce6c735fbacc561f5fd637e55d720f9ca94668a757c856e"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 849,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0130/chapters_index.html",
+     "sha256": "e93c6ccfa90766d1a7a33cd406d26b10c26f6bca9e4d09193daa1de91208dbe3"
+    }
+   ]
   }
  ]
 }
