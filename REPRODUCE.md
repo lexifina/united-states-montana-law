@@ -1,6 +1,6 @@
 # How this repository was made (Montana)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -18,8 +18,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | --- | --- | ---: | --- |
 | `constitution` | Constitution of the State of Montana | 3 | 2023-10-01 to 2026-10-28 |
 | `title-35-corporations` | Montana Code Annotated, Title 35: Corporations, Partnerships, Associations | 1 | 2026-10-28 to 2026-10-28 |
-| `title-45-crimes` | Montana Code Annotated, Title 45: Crimes | 1 | 2026-10-28 to 2026-10-28 |
-| `title-70-property` | Montana Code Annotated, Title 70: Property | 1 | 2026-10-28 to 2026-10-28 |
+| `title-45-crimes` | Montana Code Annotated, Title 45: Crimes | 3 | 2023-10-01 to 2026-10-28 |
+| `title-70-property` | Montana Code Annotated, Title 70: Property | 4 | 2023-10-01 to 2031-01-02 |
 | `title-1-general-laws-and-definitions` | Montana Code Annotated, Title 1: General Laws and Definitions | 2 | 2023-10-01 to 2025-10-01 |
 | `title-2-government-structure-and-administration` | Montana Code Annotated, Title 2: Government Structure and Administration | 6 | 2023-10-01 to 2031-07-01 |
 | `title-3-judiciary-courts` | Montana Code Annotated, Title 3: Judiciary, Courts | 3 | 2023-10-01 to 2035-07-01 |
@@ -35,20 +35,56 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-20-education` | Montana Code Annotated, Title 20: Education | 3 | 2023-10-01 to 2025-10-01 |
 | `title-22-libraries-arts-and-antiquities` | Montana Code Annotated, Title 22: Libraries, Arts, and Antiquities | 4 | 2023-10-01 to 2027-07-01 |
 | `title-23-parks-recreation-sports-and-gambling` | Montana Code Annotated, Title 23: Parks, Recreation, Sports, and Gambling | 3 | 2023-10-01 to 2025-10-01 |
+| `title-25-civil-procedure` | Montana Code Annotated, Title 25: Civil Procedure | 2 | 2023-10-01 to 2025-10-01 |
+| `title-26-evidence` | Montana Code Annotated, Title 26: Evidence | 2 | 2023-10-01 to 2025-10-01 |
+| `title-27-civil-liability-remedies-and-limitations` | Montana Code Annotated, Title 27: Civil Liability, Remedies, and Limitations | 3 | 2023-10-01 to 2026-10-01 |
+| `title-28-contracts-and-other-obligations` | Montana Code Annotated, Title 28: Contracts and Other Obligations | 2 | 2023-10-01 to 2025-10-01 |
+| `title-30-trade-and-commerce` | Montana Code Annotated, Title 30: Trade and Commerce | 3 | 2023-10-01 to 2027-07-01 |
+| `title-31-credit-transactions-and-relationships` | Montana Code Annotated, Title 31: Credit Transactions and Relationships | 2 | 2023-10-01 to 2025-10-01 |
+| `title-32-financial-institutions` | Montana Code Annotated, Title 32: Financial Institutions | 2 | 2023-10-01 to 2025-10-01 |
+| `title-33-insurance-and-insurance-companies` | Montana Code Annotated, Title 33: Insurance and Insurance Companies | 6 | 2023-10-01 to 2031-07-01 |
+| `title-35-corporations-partnerships-and-associatio` | Montana Code Annotated, Title 35: Corporations, Partnerships, and Associations | 2 | 2023-10-01 to 2025-10-01 |
+| `title-37-professions-and-occupations` | Montana Code Annotated, Title 37: Professions and Occupations | 4 | 2023-10-01 to 2031-07-01 |
+| `title-39-labor` | Montana Code Annotated, Title 39: Labor | 2 | 2023-10-01 to 2025-10-01 |
+| `title-40-family-law` | Montana Code Annotated, Title 40: Family Law | 4 | 2023-10-01 to 2025-10-01 |
+| `title-41-minors` | Montana Code Annotated, Title 41: Minors | 3 | 2023-10-01 to 2025-10-01 |
+| `title-42-adoption` | Montana Code Annotated, Title 42: Adoption | 3 | 2023-10-01 to 2025-10-01 |
+| `title-44-law-enforcement` | Montana Code Annotated, Title 44: Law Enforcement | 2 | 2023-10-01 to 2025-10-01 |
+| `title-46-criminal-procedure` | Montana Code Annotated, Title 46: Criminal Procedure | 3 | 2023-10-01 to 2027-07-01 |
+| `title-47-access-to-legal-services` | Montana Code Annotated, Title 47: Access To Legal Services | 3 | 2023-10-01 to 2025-10-01 |
+| `title-49-human-rights` | Montana Code Annotated, Title 49: Human Rights | 2 | 2023-10-01 to 2025-10-01 |
+| `title-50-health-and-safety` | Montana Code Annotated, Title 50: Health and Safety | 3 | 2023-10-01 to 2027-01-01 |
+| `title-52-family-services` | Montana Code Annotated, Title 52: Family Services | 3 | 2023-10-01 to 2025-10-01 |
+| `title-53-social-services-and-institutions` | Montana Code Annotated, Title 53: Social Services and Institutions | 6 | 2023-10-01 to 2027-07-01 |
+| `title-60-highways-and-transportation` | Montana Code Annotated, Title 60: Highways and Transportation | 2 | 2023-10-01 to 2025-10-01 |
+| `title-61-motor-vehicles` | Montana Code Annotated, Title 61: Motor Vehicles | 2 | 2023-10-01 to 2025-10-01 |
+| `title-67-aeronautics` | Montana Code Annotated, Title 67: Aeronautics | 2 | 2023-10-01 to 2025-10-01 |
+| `title-69-public-utilities-and-carriers` | Montana Code Annotated, Title 69: Public Utilities and Carriers | 2 | 2023-10-01 to 2025-10-01 |
+| `title-71-mortgages-pledges-and-liens` | Montana Code Annotated, Title 71: Mortgages, Pledges, and Liens | 2 | 2023-10-01 to 2025-10-01 |
+| `title-72-estates-trusts-and-fiduciary-relationshi` | Montana Code Annotated, Title 72: Estates, Trusts, and Fiduciary Relationships | 2 | 2023-10-01 to 2025-10-01 |
+| `title-75-environmental-protection` | Montana Code Annotated, Title 75: Environmental Protection | 2 | 2023-10-01 to 2025-10-01 |
+| `title-76-land-resources-and-use` | Montana Code Annotated, Title 76: Land Resources and Use | 5 | 2023-10-01 to 2029-10-01 |
+| `title-77-state-lands` | Montana Code Annotated, Title 77: State Lands | 2 | 2023-10-01 to 2025-10-01 |
+| `title-80-agriculture` | Montana Code Annotated, Title 80: Agriculture | 2 | 2023-10-01 to 2025-10-01 |
+| `title-81-livestock` | Montana Code Annotated, Title 81: Livestock | 3 | 2023-10-01 to 2029-07-01 |
+| `title-82-minerals-oil-and-gas` | Montana Code Annotated, Title 82: Minerals, Oil, and Gas | 2 | 2023-10-01 to 2025-10-01 |
+| `title-85-water-use` | Montana Code Annotated, Title 85: Water Use | 4 | 2023-10-01 to 2031-07-01 |
+| `title-87-fish-and-wildlife` | Montana Code Annotated, Title 87: Fish and Wildlife | 3 | 2023-10-01 to 2025-10-01 |
+| `title-90-planning-research-and-development` | Montana Code Annotated, Title 90: Planning, Research, and Development | 5 | 2023-10-01 to 2035-07-01 |
 
-The build made 50 commits:
+The build made 143 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 19 | first version of an act |
+| 55 | first version of an act |
 | 0 | one law on its in-force day |
-| 28 | changes no amendment note explains, credited to the publisher |
+| 79 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 47 tags.
+- 134 tags.
 
 ## Dates
 
@@ -60,7 +96,7 @@ When a law gives no date of its own, the default rule applies: MCA 1-2-201(1)(a)
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8237c60f6b43d81081e7bc31774343630c4381a15eef9cd88b6c6202cfa31376` (75476874 bytes).
+- Corpus: sha256 `16c6186c8c2084f2b451dabd30122e8774d923e7a6484b1fa4d5aadf6deb52ad` (190055862 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -73,7 +109,7 @@ No second build of this corpus has been compared yet.
 ## Decisions made by hand
 
 - Every title of the Montana Code Annotated and the Constitution, from the 2023 and 2025 editions on mca.legmt.gov. Each edition holds the law enacted through that year's regular session; under MCA 1-2-201(1)(a) a law takes effect on 1 October after its passage unless it says otherwise, so each edition is dated 1 October of its year (2023-10-01, 2025-10-01). Laws that took effect earlier in the year are dated later than they took effect, never earlier. The 2025 edition's page says "Updated August 2026" and gives no day.
-- Where an edition prints a section in two forms with an effective clause in the catchline ("(Temporary -- effective until June 30, 2027)", "(Effective July 1, 2027)"), each version takes the form in force on its day, and the act gets a further version on each later day a printed form takes effect, up to the next edition. Forms "effective on occurrence of contingency" are left out while another form exists, and a section printed only in a contingent form is left out (29 section pages): the code does not say whether the contingency occurred.
+- Where an edition prints a section in two forms with an effective clause in the catchline ("(Temporary -- effective until June 30, 2027)", "(Effective July 1, 2027)"), each version takes the form in force on its day, and the act gets a further version on each later day a printed form takes effect, up to the next edition. Forms "effective on occurrence of contingency" are left out while another form exists, and a section printed only in a contingent form is left out (112 section pages): the code does not say whether the contingency occurred.
 - History starts with the 2023 edition: the 2021 edition is not on the host (404), and the 2017 and 2019 editions would leave October 2021 to October 2023 without text. Changes made between editions (special sessions, constitutional amendments approved at an election) are dated by the next edition, later than they took effect.
 - The four acts of the first build (the Constitution, Titles 35, 45 and 70; one version dated 2026-10-28, the retrieval day) keep that commit; as their pages are read again, correction commits add the 2023 and 2025 editions before it and set its text to the text the shipped parser reads from the pages.
 - Each section keeps its History note (the session laws behind it) as its last line; no compiler's comments, cross-references or annotations are taken.

@@ -48,6 +48,18 @@
    "url": "https://mca.legmt.gov/bills/mca/title_0450/chapters_index.html",
    "versions": [
     {
+     "from": "2023-10-01",
+     "units": 361,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0450/chapters_index.html",
+     "sha256": "a77a1a91088497964f3c3a946c71f854912d7220206ad1c23fc23701ddccb3ed"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 390,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0450/chapters_index.html",
+     "sha256": "e93e72324a855b07a0c2f602db96f52a7f2b5b3662315d7dfcee08cc3cd77c1c"
+    },
+    {
      "from": "2026-10-28",
      "units": 390,
      "source_url": "https://mca.legmt.gov/bills/mca/title_0450/chapters_index.html",
@@ -62,10 +74,28 @@
    "url": "https://mca.legmt.gov/bills/mca/title_0700/chapters_index.html",
    "versions": [
     {
+     "from": "2023-10-01",
+     "units": 954,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0700/chapters_index.html",
+     "sha256": "8d922ac5f218f139f77d1dd67d1b0fe64f1b96f3d63a832727c62d343765011d"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 954,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0700/chapters_index.html",
+     "sha256": "bd35dca15b5a13dd0e676193a4a93e36f2205cdae4b653088a96c749d3073e7c"
+    },
+    {
      "from": "2026-10-28",
      "units": 954,
      "source_url": "https://mca.legmt.gov/bills/mca/title_0700/chapters_index.html",
      "sha256": "7beffb673c7292374249f28159831fc3542b78cb30143fa56b73ddbc830fb2a0"
+    },
+    {
+     "from": "2031-01-02",
+     "units": 954,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0700/chapters_index.html",
+     "sha256": "bd35dca15b5a13dd0e676193a4a93e36f2205cdae4b653088a96c749d3073e7c"
     }
    ]
   },
@@ -540,6 +570,906 @@
      "units": 529,
      "source_url": "https://mca.legmt.gov/bills/mca/title_0230/chapters_index.html",
      "sha256": "6d10287f0efc881889bc49df89f8d0a03699de83ceb206934c1d293d36dcabb5"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-civil-procedure",
+   "short": "MCA 25",
+   "title": "Montana Code Annotated, Title 25: Civil Procedure",
+   "url": "https://mca.legmt.gov/bills/mca/title_0250/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 848,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0250/chapters_index.html",
+     "sha256": "34067f25134533cbcfb4f61293458e210bf200c5ded14403e99293340a3878dc"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 851,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0250/chapters_index.html",
+     "sha256": "c1a1a0789a6ce71e82272b76ba93aa58d71c76e051fb10a5392251cb3dfa31f3"
+    }
+   ]
+  },
+  {
+   "slug": "title-26-evidence",
+   "short": "MCA 26",
+   "title": "Montana Code Annotated, Title 26: Evidence",
+   "url": "https://mca.legmt.gov/bills/mca/title_0260/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 180,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0260/chapters_index.html",
+     "sha256": "30318d61809c4011e95e77b3dfd64d191c90428dc1b321980761fe40349f778b"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 181,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0260/chapters_index.html",
+     "sha256": "e5c1acb9a977fcb22321618aa30f4b412ed45a90c1e247e4452abbcc7fa9ff0c"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-civil-liability-remedies-and-limitations",
+   "short": "MCA 27",
+   "title": "Montana Code Annotated, Title 27: Civil Liability, Remedies, and Limitations",
+   "url": "https://mca.legmt.gov/bills/mca/title_0270/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 632,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0270/chapters_index.html",
+     "sha256": "64a2cd337171e68954e54a5cfa4256d0e43769b9f37aafdc5f6d82957bc29628"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 658,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0270/chapters_index.html",
+     "sha256": "7cbf3fd06935049f8791285fbb933ddf7ab193827fe2fd881db20fdc88ef21c9"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 659,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0270/chapters_index.html",
+     "sha256": "7cbf3fd06935049f8791285fbb933ddf7ab193827fe2fd881db20fdc88ef21c9"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-contracts-and-other-obligations",
+   "short": "MCA 28",
+   "title": "Montana Code Annotated, Title 28: Contracts and Other Obligations",
+   "url": "https://mca.legmt.gov/bills/mca/title_0280/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 295,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0280/chapters_index.html",
+     "sha256": "65835bf65e54d9e98afd03d8bf193a002bb43286e802dc76f04cb091b2445fd0"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 295,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0280/chapters_index.html",
+     "sha256": "2584fc36578540f530c842462f2af52bbfc72a684063460f1ca1d4bab3914316"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-trade-and-commerce",
+   "short": "MCA 30",
+   "title": "Montana Code Annotated, Title 30: Trade and Commerce",
+   "url": "https://mca.legmt.gov/bills/mca/title_0300/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1553,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0300/chapters_index.html",
+     "sha256": "ab18da49a75d360f946cdb8133c0a90982e4c907bd982df53dfb8db0e87b467d"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1632,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0300/chapters_index.html",
+     "sha256": "817feb7eda2901670abff48d9c60cb1777857c54c7e22cbdf61d026ce9d90c28"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 1632,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0300/chapters_index.html",
+     "sha256": "817feb7eda2901670abff48d9c60cb1777857c54c7e22cbdf61d026ce9d90c28"
+    }
+   ]
+  },
+  {
+   "slug": "title-31-credit-transactions-and-relationships",
+   "short": "MCA 31",
+   "title": "Montana Code Annotated, Title 31: Credit Transactions and Relationships",
+   "url": "https://mca.legmt.gov/bills/mca/title_0310/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 214,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0310/chapters_index.html",
+     "sha256": "9fe3a27d051b5c31c731b9313d304cb53d98c2be34d8f90a5dceb32ebf880044"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 231,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0310/chapters_index.html",
+     "sha256": "4a1b4112d989ed584f2b04c36c41424712caeebe89192f950e5b93c46722fd91"
+    }
+   ]
+  },
+  {
+   "slug": "title-32-financial-institutions",
+   "short": "MCA 32",
+   "title": "Montana Code Annotated, Title 32: Financial Institutions",
+   "url": "https://mca.legmt.gov/bills/mca/title_0320/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 907,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0320/chapters_index.html",
+     "sha256": "8d3a5bebfd67ae97e3b09ccbd32e5c0f3418821b0e7a3f33a461b0dfde525b81"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 907,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0320/chapters_index.html",
+     "sha256": "78841534ad15f32baf2355e7985c55d323dc77a19b85f69e6b11a66be381f2d4"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-insurance-and-insurance-companies",
+   "short": "MCA 33",
+   "title": "Montana Code Annotated, Title 33: Insurance and Insurance Companies",
+   "url": "https://mca.legmt.gov/bills/mca/title_0330/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 2221,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0330/chapters_index.html",
+     "sha256": "801fc4b9eb64dcd818d8a35b05d9366ba024fc543baa7a9466e952d78b5c3fc5"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 2229,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0330/chapters_index.html",
+     "sha256": "801fc4b9eb64dcd818d8a35b05d9366ba024fc543baa7a9466e952d78b5c3fc5"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 2255,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0330/chapters_index.html",
+     "sha256": "8f648e0f70fda5d777a8aaccbf6b2d432e3abac6f14f910fcda8d863e335d1a1"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 2256,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0330/chapters_index.html",
+     "sha256": "8f648e0f70fda5d777a8aaccbf6b2d432e3abac6f14f910fcda8d863e335d1a1"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 2256,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0330/chapters_index.html",
+     "sha256": "8f648e0f70fda5d777a8aaccbf6b2d432e3abac6f14f910fcda8d863e335d1a1"
+    },
+    {
+     "from": "2031-07-01",
+     "units": 2256,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0330/chapters_index.html",
+     "sha256": "8f648e0f70fda5d777a8aaccbf6b2d432e3abac6f14f910fcda8d863e335d1a1"
+    }
+   ]
+  },
+  {
+   "slug": "title-35-corporations-partnerships-and-associatio",
+   "short": "MCA 35",
+   "title": "Montana Code Annotated, Title 35: Corporations, Partnerships, and Associations",
+   "url": "https://mca.legmt.gov/bills/mca/title_0350/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1787,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0350/chapters_index.html",
+     "sha256": "e2eddff388a3b85d151d9e9a822eec3e48122808f0e54c8bb1200a7632fc5c37"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1801,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0350/chapters_index.html",
+     "sha256": "bb5c12a55f0131e500a11c09610b2ff48d284ac6294b7e052e069a03901b3220"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-professions-and-occupations",
+   "short": "MCA 37",
+   "title": "Montana Code Annotated, Title 37: Professions and Occupations",
+   "url": "https://mca.legmt.gov/bills/mca/title_0370/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1736,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0370/chapters_index.html",
+     "sha256": "cd4cf870ba1743157ab9465540a2598667a98d12e39a30647be7392623e58e81"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 1738,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0370/chapters_index.html",
+     "sha256": "cd4cf870ba1743157ab9465540a2598667a98d12e39a30647be7392623e58e81"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1791,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0370/chapters_index.html",
+     "sha256": "a7e078309302f4adcae43190c47e45d0fc3b09edf39c70ff37a8cfc4d5dd59b4"
+    },
+    {
+     "from": "2031-07-01",
+     "units": 1791,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0370/chapters_index.html",
+     "sha256": "a7e078309302f4adcae43190c47e45d0fc3b09edf39c70ff37a8cfc4d5dd59b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-labor",
+   "short": "MCA 39",
+   "title": "Montana Code Annotated, Title 39: Labor",
+   "url": "https://mca.legmt.gov/bills/mca/title_0390/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1041,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0390/chapters_index.html",
+     "sha256": "f17418ef0791024cb181af1f9b696adca0b628d8d809810ad1d6ed9bd545cf30"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1053,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0390/chapters_index.html",
+     "sha256": "a4890d8b20c4892a71f362a6f8f6efbedfdd6e9ff9c125baa187f13c133de025"
+    }
+   ]
+  },
+  {
+   "slug": "title-40-family-law",
+   "short": "MCA 40",
+   "title": "Montana Code Annotated, Title 40: Family Law",
+   "url": "https://mca.legmt.gov/bills/mca/title_0400/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 753,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0400/chapters_index.html",
+     "sha256": "9c8e1490fb4c7aaee8ca9f90ee4d0053f55186f5ed17040d39dfa7bf4dc7e387"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 753,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0400/chapters_index.html",
+     "sha256": "9c8e1490fb4c7aaee8ca9f90ee4d0053f55186f5ed17040d39dfa7bf4dc7e387"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 753,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0400/chapters_index.html",
+     "sha256": "9c8e1490fb4c7aaee8ca9f90ee4d0053f55186f5ed17040d39dfa7bf4dc7e387"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 754,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0400/chapters_index.html",
+     "sha256": "639d50b3f3c5a9a90511d75f4506e223036256af5a49fa6f98905474fe4ce4fc"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-minors",
+   "short": "MCA 41",
+   "title": "Montana Code Annotated, Title 41: Minors",
+   "url": "https://mca.legmt.gov/bills/mca/title_0410/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 507,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0410/chapters_index.html",
+     "sha256": "18dd64876b9d3d03a47fd120620ce1f5b53b62fb826df8fe914cbb0d7cf9fdc7"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 507,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0410/chapters_index.html",
+     "sha256": "18dd64876b9d3d03a47fd120620ce1f5b53b62fb826df8fe914cbb0d7cf9fdc7"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 513,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0410/chapters_index.html",
+     "sha256": "cd324e079dc2f015deff0da63f637f4577fb14d49bdb2041dc09963f81265b12"
+    }
+   ]
+  },
+  {
+   "slug": "title-42-adoption",
+   "short": "MCA 42",
+   "title": "Montana Code Annotated, Title 42: Adoption",
+   "url": "https://mca.legmt.gov/bills/mca/title_0420/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 188,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0420/chapters_index.html",
+     "sha256": "284f71e41d3995ea63e01ffb0d3882172d075ef0877d82f2eaba5d196ad247d8"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 188,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0420/chapters_index.html",
+     "sha256": "284f71e41d3995ea63e01ffb0d3882172d075ef0877d82f2eaba5d196ad247d8"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 192,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0420/chapters_index.html",
+     "sha256": "2f0281739d9125aa8477fb0ebaeb00f16b4393cb0e9306452471ab1aa902dc11"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-law-enforcement",
+   "short": "MCA 44",
+   "title": "Montana Code Annotated, Title 44: Law Enforcement",
+   "url": "https://mca.legmt.gov/bills/mca/title_0440/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 344,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0440/chapters_index.html",
+     "sha256": "b9ab6b9d1db864a9cdd41c1b7bbbb8af61336df7464090e5a324cc90bff63544"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 352,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0440/chapters_index.html",
+     "sha256": "34f08d18546bbc2fc9e51b71df26577008638fe7540144463875be0dcd949036"
+    }
+   ]
+  },
+  {
+   "slug": "title-46-criminal-procedure",
+   "short": "MCA 46",
+   "title": "Montana Code Annotated, Title 46: Criminal Procedure",
+   "url": "https://mca.legmt.gov/bills/mca/title_0460/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 945,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0460/chapters_index.html",
+     "sha256": "0b2a3eb0423218fdc5dccc7f15813b9b172b3821fa0cf1627fe597e9099f2184"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 957,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0460/chapters_index.html",
+     "sha256": "f7052d1c8be2849042e1541e57da9136fb5666690621e5db2d22c4ad1dc9812b"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 957,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0460/chapters_index.html",
+     "sha256": "f7052d1c8be2849042e1541e57da9136fb5666690621e5db2d22c4ad1dc9812b"
+    }
+   ]
+  },
+  {
+   "slug": "title-47-access-to-legal-services",
+   "short": "MCA 47",
+   "title": "Montana Code Annotated, Title 47: Access To Legal Services",
+   "url": "https://mca.legmt.gov/bills/mca/title_0470/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 27,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0470/chapters_index.html",
+     "sha256": "41e11baa6aa001e6f9d93b67adb563d0a54a2a141f470fd3546538811c48db50"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 27,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0470/chapters_index.html",
+     "sha256": "41e11baa6aa001e6f9d93b67adb563d0a54a2a141f470fd3546538811c48db50"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 30,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0470/chapters_index.html",
+     "sha256": "56508c2d2590e5c6f05346b40421868d19a68ef2b4f0ea8217cf544eb3046a52"
+    }
+   ]
+  },
+  {
+   "slug": "title-49-human-rights",
+   "short": "MCA 49",
+   "title": "Montana Code Annotated, Title 49: Human Rights",
+   "url": "https://mca.legmt.gov/bills/mca/title_0490/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 129,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0490/chapters_index.html",
+     "sha256": "d69929a1e4bc150aaf112d602006689f44ced258b7a240d61bd3f1df766f66a1"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 135,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0490/chapters_index.html",
+     "sha256": "82b23ae947b73a7b83251f2e38a8ee27f882a60344d9b9b5a953a92f76414995"
+    }
+   ]
+  },
+  {
+   "slug": "title-50-health-and-safety",
+   "short": "MCA 50",
+   "title": "Montana Code Annotated, Title 50: Health and Safety",
+   "url": "https://mca.legmt.gov/bills/mca/title_0500/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1676,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0500/chapters_index.html",
+     "sha256": "330dd10919352c31fc46a390693dff592587e422ec2e1583d21f04072e5cdb71"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1707,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0500/chapters_index.html",
+     "sha256": "79c0fce88b16ee8e5c3b6d063b518a0443a29a0a466abaee578d4607943ed4e0"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 1710,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0500/chapters_index.html",
+     "sha256": "79c0fce88b16ee8e5c3b6d063b518a0443a29a0a466abaee578d4607943ed4e0"
+    }
+   ]
+  },
+  {
+   "slug": "title-52-family-services",
+   "short": "MCA 52",
+   "title": "Montana Code Annotated, Title 52: Family Services",
+   "url": "https://mca.legmt.gov/bills/mca/title_0520/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 241,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0520/chapters_index.html",
+     "sha256": "008db6494309bdf96563b8029ec7eabf86945d056a9261cb39e1ed14c4621f83"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 241,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0520/chapters_index.html",
+     "sha256": "008db6494309bdf96563b8029ec7eabf86945d056a9261cb39e1ed14c4621f83"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 250,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0520/chapters_index.html",
+     "sha256": "65ea1eef5d4a59fbcb0008b0cba6aab1b28313eff486e1f62d00052d7890bda8"
+    }
+   ]
+  },
+  {
+   "slug": "title-53-social-services-and-institutions",
+   "short": "MCA 53",
+   "title": "Montana Code Annotated, Title 53: Social Services and Institutions",
+   "url": "https://mca.legmt.gov/bills/mca/title_0530/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1185,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0530/chapters_index.html",
+     "sha256": "57e95acff8cbcc8d8b7ef8e3e0e652b74582dbaef622ad140b30b96d96aafdb4"
+    },
+    {
+     "from": "2024-04-30",
+     "units": 1185,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0530/chapters_index.html",
+     "sha256": "57e95acff8cbcc8d8b7ef8e3e0e652b74582dbaef622ad140b30b96d96aafdb4"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 1185,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0530/chapters_index.html",
+     "sha256": "57e95acff8cbcc8d8b7ef8e3e0e652b74582dbaef622ad140b30b96d96aafdb4"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1213,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0530/chapters_index.html",
+     "sha256": "7106d211ba41f7642302195a9a24559951ab2bd9709e818c83856adfee5dc935"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 1213,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0530/chapters_index.html",
+     "sha256": "7106d211ba41f7642302195a9a24559951ab2bd9709e818c83856adfee5dc935"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 1213,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0530/chapters_index.html",
+     "sha256": "7106d211ba41f7642302195a9a24559951ab2bd9709e818c83856adfee5dc935"
+    }
+   ]
+  },
+  {
+   "slug": "title-60-highways-and-transportation",
+   "short": "MCA 60",
+   "title": "Montana Code Annotated, Title 60: Highways and Transportation",
+   "url": "https://mca.legmt.gov/bills/mca/title_0600/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 298,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0600/chapters_index.html",
+     "sha256": "640a79448bdb87464f0a4a7bc380b65e0e70f984402d25b37268a0d7976fd4d9"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 309,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0600/chapters_index.html",
+     "sha256": "576a3c72b6880440f9ab144cbee5b416de24d9d3b2456ec49132c2f4ca7e7239"
+    }
+   ]
+  },
+  {
+   "slug": "title-61-motor-vehicles",
+   "short": "MCA 61",
+   "title": "Montana Code Annotated, Title 61: Motor Vehicles",
+   "url": "https://mca.legmt.gov/bills/mca/title_0610/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1142,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0610/chapters_index.html",
+     "sha256": "690e55e32d63930b971a01ea857452d546c1dacd8ab65e28049923fb86c9d464"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1159,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0610/chapters_index.html",
+     "sha256": "adaa0ac89c921491835c0b50252dc5f33605de81e361ba89efe2e8d83cd71101"
+    }
+   ]
+  },
+  {
+   "slug": "title-67-aeronautics",
+   "short": "MCA 67",
+   "title": "Montana Code Annotated, Title 67: Aeronautics",
+   "url": "https://mca.legmt.gov/bills/mca/title_0670/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 197,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0670/chapters_index.html",
+     "sha256": "eb9cb0ed2c2d121ab7497a5f078676df325eea02311fbd6c17c752c334ddb3f3"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 198,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0670/chapters_index.html",
+     "sha256": "0e4925703e30a6a7484cd4befaee411f8dcafcae68d8a20ab2a73f73c2de6268"
+    }
+   ]
+  },
+  {
+   "slug": "title-69-public-utilities-and-carriers",
+   "short": "MCA 69",
+   "title": "Montana Code Annotated, Title 69: Public Utilities and Carriers",
+   "url": "https://mca.legmt.gov/bills/mca/title_0690/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 832,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0690/chapters_index.html",
+     "sha256": "8b98587347ef6a2504c6be49370fa0f57cd1d941adda4a49eea51034b78bcdf8"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 841,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0690/chapters_index.html",
+     "sha256": "5adb1ee5d51a7d7826079f97eed132fd14f30072cacb6571ae6240a07d879b0d"
+    }
+   ]
+  },
+  {
+   "slug": "title-71-mortgages-pledges-and-liens",
+   "short": "MCA 71",
+   "title": "Montana Code Annotated, Title 71: Mortgages, Pledges, and Liens",
+   "url": "https://mca.legmt.gov/bills/mca/title_0710/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 265,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0710/chapters_index.html",
+     "sha256": "150a709ed51134dc3d1c88c2cb802e1a6a346775dc7d9f9f5840a4b74c0b87eb"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 265,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0710/chapters_index.html",
+     "sha256": "caffb76d521c006107a62642e8e53516da5ef3d780aac13215acac70ca000036"
+    }
+   ]
+  },
+  {
+   "slug": "title-72-estates-trusts-and-fiduciary-relationshi",
+   "short": "MCA 72",
+   "title": "Montana Code Annotated, Title 72: Estates, Trusts, and Fiduciary Relationships",
+   "url": "https://mca.legmt.gov/bills/mca/title_0720/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1775,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0720/chapters_index.html",
+     "sha256": "0ff17b6e6d4766d70a9e46608f6be9c068cde96a34d05f8779bef43ec6c15a5a"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 1778,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0720/chapters_index.html",
+     "sha256": "90d92316c00d7882080c146f48489049bb012713a5e3c269e88945331e547812"
+    }
+   ]
+  },
+  {
+   "slug": "title-75-environmental-protection",
+   "short": "MCA 75",
+   "title": "Montana Code Annotated, Title 75: Environmental Protection",
+   "url": "https://mca.legmt.gov/bills/mca/title_0750/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 910,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0750/chapters_index.html",
+     "sha256": "1ccb2ac05a3184a7b3277e9b447f4a17d7703b02700dda8bf73e39eb561d21a9"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 939,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0750/chapters_index.html",
+     "sha256": "5f50b1b6a8f51cdded886d63ca41c8ef0dddb6216cafd0e4fb61b3b1500e3094"
+    }
+   ]
+  },
+  {
+   "slug": "title-76-land-resources-and-use",
+   "short": "MCA 76",
+   "title": "Montana Code Annotated, Title 76: Land Resources and Use",
+   "url": "https://mca.legmt.gov/bills/mca/title_0760/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 843,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0760/chapters_index.html",
+     "sha256": "a798aac409674ed8f9b154bf9d3ccad6bb8a300cd0d8e94bb4b5029b441bf0e0"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 862,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0760/chapters_index.html",
+     "sha256": "da40f023b3e546c1eb98b626d8d2e718a09299387cfabe264fe1c7de63557381"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 862,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0760/chapters_index.html",
+     "sha256": "da40f023b3e546c1eb98b626d8d2e718a09299387cfabe264fe1c7de63557381"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 862,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0760/chapters_index.html",
+     "sha256": "da40f023b3e546c1eb98b626d8d2e718a09299387cfabe264fe1c7de63557381"
+    },
+    {
+     "from": "2029-10-01",
+     "units": 862,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0760/chapters_index.html",
+     "sha256": "da40f023b3e546c1eb98b626d8d2e718a09299387cfabe264fe1c7de63557381"
+    }
+   ]
+  },
+  {
+   "slug": "title-77-state-lands",
+   "short": "MCA 77",
+   "title": "Montana Code Annotated, Title 77: State Lands",
+   "url": "https://mca.legmt.gov/bills/mca/title_0770/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 465,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0770/chapters_index.html",
+     "sha256": "84964f8cb42f534286715bc9047ffecfdfe7ff82df39b0a313e965e201775ba5"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 466,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0770/chapters_index.html",
+     "sha256": "cc483650c026ae6a895ba751c01a773cf5187fd8212dd209eceebeeedde1a555"
+    }
+   ]
+  },
+  {
+   "slug": "title-80-agriculture",
+   "short": "MCA 80",
+   "title": "Montana Code Annotated, Title 80: Agriculture",
+   "url": "https://mca.legmt.gov/bills/mca/title_0800/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 790,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0800/chapters_index.html",
+     "sha256": "7f8985bb16808bc9ff6b9f28296658d572563f15b7db57791c13eeb57db488ea"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 790,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0800/chapters_index.html",
+     "sha256": "111e0195e0c2884efae7a214b32d7a340bba0b086fbb669be73209179c92ecc3"
+    }
+   ]
+  },
+  {
+   "slug": "title-81-livestock",
+   "short": "MCA 81",
+   "title": "Montana Code Annotated, Title 81: Livestock",
+   "url": "https://mca.legmt.gov/bills/mca/title_0810/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 575,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0810/chapters_index.html",
+     "sha256": "73563beab024f4cce278b7464bce4d56cb01331b45b6840d7fcb82bc2ad68b9e"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 581,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0810/chapters_index.html",
+     "sha256": "7253dd7fe3fe48c4148494c3d1c85a7bc19cc50ab3ca4d861c00c80852242d23"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 581,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0810/chapters_index.html",
+     "sha256": "7253dd7fe3fe48c4148494c3d1c85a7bc19cc50ab3ca4d861c00c80852242d23"
+    }
+   ]
+  },
+  {
+   "slug": "title-82-minerals-oil-and-gas",
+   "short": "MCA 82",
+   "title": "Montana Code Annotated, Title 82: Minerals, Oil, and Gas",
+   "url": "https://mca.legmt.gov/bills/mca/title_0820/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 394,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0820/chapters_index.html",
+     "sha256": "5c226aaa2bfba25fbad258af67515a1bdebd90cb3d9845cfe5dff7f2027f2d26"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 395,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0820/chapters_index.html",
+     "sha256": "139927d34bcea342ef041d3b0c205efcfd24ce3f9d3a2c3616f5aa01c1627f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-85-water-use",
+   "short": "MCA 85",
+   "title": "Montana Code Annotated, Title 85: Water Use",
+   "url": "https://mca.legmt.gov/bills/mca/title_0850/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 981,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0850/chapters_index.html",
+     "sha256": "7fbf94878cef958df4ff75d5400057519de6f95eb24f029e50ef178a5b69b43d"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 987,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0850/chapters_index.html",
+     "sha256": "04c203f4425b8399cbc5b35b5bee41cb00b2dbc76c54fa2e0c2b66df530c01be"
+    },
+    {
+     "from": "2028-07-01",
+     "units": 987,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0850/chapters_index.html",
+     "sha256": "04c203f4425b8399cbc5b35b5bee41cb00b2dbc76c54fa2e0c2b66df530c01be"
+    },
+    {
+     "from": "2031-07-01",
+     "units": 987,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0850/chapters_index.html",
+     "sha256": "04c203f4425b8399cbc5b35b5bee41cb00b2dbc76c54fa2e0c2b66df530c01be"
+    }
+   ]
+  },
+  {
+   "slug": "title-87-fish-and-wildlife",
+   "short": "MCA 87",
+   "title": "Montana Code Annotated, Title 87: Fish and Wildlife",
+   "url": "https://mca.legmt.gov/bills/mca/title_0870/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 722,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0870/chapters_index.html",
+     "sha256": "af79b4c7b359e3f9cfb3bdee6082d31de6512ce7cfda1b72c5aab677c10dc745"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 724,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0870/chapters_index.html",
+     "sha256": "af79b4c7b359e3f9cfb3bdee6082d31de6512ce7cfda1b72c5aab677c10dc745"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 738,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0870/chapters_index.html",
+     "sha256": "66a257d3d9f9f14c6ff267a30cf2817b2dac95387557404a48b57158084983e5"
+    }
+   ]
+  },
+  {
+   "slug": "title-90-planning-research-and-development",
+   "short": "MCA 90",
+   "title": "Montana Code Annotated, Title 90: Planning, Research, and Development",
+   "url": "https://mca.legmt.gov/bills/mca/title_0900/chapters_index.html",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 573,
+     "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0900/chapters_index.html",
+     "sha256": "71d63c70554611c63d317e44ff41ffdd765c21611fa20b69d3f40c9db60f53f2"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 587,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0900/chapters_index.html",
+     "sha256": "64f478de7cef886000e3610633e4f94328b213809618c57660ff1a01a0e814af"
+    },
+    {
+     "from": "2028-01-01",
+     "units": 587,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0900/chapters_index.html",
+     "sha256": "64f478de7cef886000e3610633e4f94328b213809618c57660ff1a01a0e814af"
+    },
+    {
+     "from": "2029-07-01",
+     "units": 587,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0900/chapters_index.html",
+     "sha256": "64f478de7cef886000e3610633e4f94328b213809618c57660ff1a01a0e814af"
+    },
+    {
+     "from": "2035-07-01",
+     "units": 587,
+     "source_url": "https://mca.legmt.gov/bills/mca/title_0900/chapters_index.html",
+     "sha256": "64f478de7cef886000e3610633e4f94328b213809618c57660ff1a01a0e814af"
     }
    ]
   }
