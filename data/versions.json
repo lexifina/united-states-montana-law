@@ -1160,6 +1160,18 @@
    "url": "https://mca.legmt.gov/bills/mca/title_0670/chapters_index.html",
    "versions": [
     {
+     "from": "2015-10-01",
+     "units": 195,
+     "source_url": "https://mca.legmt.gov/bills/2017/mca/title_0670/chapters_index.html",
+     "sha256": "5c914ac40233e96096d13a7d334b4756cbdcad4d8ce02cbd377da3ece3ff9e6d"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 197,
+     "source_url": "https://mca.legmt.gov/bills/2019/mca/title_0670/chapters_index.html",
+     "sha256": "7ec0c74198ca962ee45e804cb37cbbbba2952c2c5ff8636e0583a2bd1bab6f90"
+    },
+    {
      "from": "2023-10-01",
      "units": 197,
      "source_url": "https://mca.legmt.gov/bills/2023/mca/title_0670/chapters_index.html",

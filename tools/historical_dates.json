@@ -1,0 +1,22 @@
+{
+  "2017-67": {
+    "from": "2015-10-01",
+    "in_force_basis": "Latest amending law in the complete 2017 Title 67 histories: Chapter 220, Laws of 2015 (HB 99), approved April 10, 2015. The official effective-date table gives 10/01/2015 (2015 Session Laws volume II, PDF p. 1224); the complete act has no separate commencement clause (volume I, PDF pp. 955-983), consistent with MCA 1-2-201(1)(a).",
+    "note": "Official 2017 edition of Title 67; its latest cited amendment is Chapter 220, Laws of 2015. This is an earlier consolidated text, dated by that amendment's effective day, not a claim to the original enactment.",
+    "date_source": "https://archive.legmt.gov/content/Publications/sales/2015-session-law-volume-1.pdf",
+    "date_source_sha256": "963c4f6f3cee1bd7417610e55ed505eec4ef8e90436f892040b42737f6c39512",
+    "table_source": "https://archive.legmt.gov/content/Publications/sales/2015-session-law-volume-2.pdf",
+    "table_source_sha256": "3fa3d98ed641cee2a5094fcf7d4eb6754b5cef436199405073b5f916a7b0893b",
+    "table_pdf_page": 1224
+  },
+  "2019-67": {
+    "from": "2019-07-01",
+    "in_force_basis": "Chapter 455, Laws of 2019 (HB 661), section 16: [This act] is effective July 1, 2019. Approved May 10, 2019. Official 2019 Session Laws volume II, PDF p. 736; this is the latest amending law in the complete 2019 Title 67 section histories.",
+    "note": "Official 2019 edition of Title 67, dated by Chapter 455's express July 1, 2019 commencement. The six sections added or changed since the 2017 edition all cite that chapter.",
+    "date_source": "https://archive.legmt.gov/content/Publications/sales/2019SessionLaws_VOL2.pdf",
+    "date_source_sha256": "b2c93759b9adcf40cd422cfce99021e0d8ddd56edc549ee744b8f7582e79cbc2",
+    "table_source": "https://archive.legmt.gov/content/Publications/sales/2019SessionLaws_VOL2.pdf",
+    "table_source_sha256": "b2c93759b9adcf40cd422cfce99021e0d8ddd56edc549ee744b8f7582e79cbc2",
+    "table_pdf_page": 1138
+  }
+}
