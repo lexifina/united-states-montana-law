@@ -9,6 +9,11 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Montana Code Annotated 2025 (Legislative Services Division) | <https://mca.legmt.gov/bills/mca/index.html> | 2026-10-30 | MCA 1-11-304: the Montana Code Annotated, as published, is the property of the State and may not be copyrighted. Statute text is also not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | Montana Code Annotated 2025 (Legislative Services Division), every title | <https://mca.legmt.gov/bills/mca/index.html> | 2026-11-10 | MCA 1-11-304: the Montana Code Annotated, as published, is the property of the State and may not be copyrighted. Statute text is also not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | Montana Code Annotated 2023 (Legislative Services Division), every title | <https://mca.legmt.gov/bills/2023/mca/index.html> | 2026-11-10 | MCA 1-11-304: the Montana Code Annotated, as published, is the property of the State and may not be copyrighted. Statute text is also not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| Official MCA 2017, Title 67 | <https://mca.legmt.gov/bills/2017/mca/title_0670/chapters_index.html> | 2026-11-11 | MCA 1-11-304: the code may not be copyrighted |
+| Official Montana Session Laws 2015 | <https://archive.legmt.gov/content/Publications/sales/2015-session-law-volume-1.pdf> | 2026-11-11 | Official state legislation |
+| Official Montana Session Laws 2015, effective-date table | <https://archive.legmt.gov/content/Publications/sales/2015-session-law-volume-2.pdf> | 2026-11-11 | Official state legislation |
+| Official MCA 2019, Title 67 | <https://mca.legmt.gov/bills/2019/mca/title_0670/chapters_index.html> | 2026-11-11 | MCA 1-11-304: the code may not be copyrighted |
+| Official Montana Session Laws 2019 | <https://archive.legmt.gov/content/Publications/sales/2019SessionLaws_VOL2.pdf> | 2026-11-11 | Official state legislation |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -58,7 +63,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-53-social-services-and-institutions` | Montana Code Annotated, Title 53: Social Services and Institutions | 6 | 2023-10-01 to 2027-07-01 |
 | `title-60-highways-and-transportation` | Montana Code Annotated, Title 60: Highways and Transportation | 2 | 2023-10-01 to 2025-10-01 |
 | `title-61-motor-vehicles` | Montana Code Annotated, Title 61: Motor Vehicles | 2 | 2023-10-01 to 2025-10-01 |
-| `title-67-aeronautics` | Montana Code Annotated, Title 67: Aeronautics | 2 | 2023-10-01 to 2025-10-01 |
+| `title-67-aeronautics` | Montana Code Annotated, Title 67: Aeronautics | 4 | 2015-10-01 to 2025-10-01 |
 | `title-69-public-utilities-and-carriers` | Montana Code Annotated, Title 69: Public Utilities and Carriers | 2 | 2023-10-01 to 2025-10-01 |
 | `title-71-mortgages-pledges-and-liens` | Montana Code Annotated, Title 71: Mortgages, Pledges, and Liens | 2 | 2023-10-01 to 2025-10-01 |
 | `title-72-estates-trusts-and-fiduciary-relationshi` | Montana Code Annotated, Title 72: Estates, Trusts, and Fiduciary Relationships | 2 | 2023-10-01 to 2025-10-01 |
@@ -72,7 +77,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-87-fish-and-wildlife` | Montana Code Annotated, Title 87: Fish and Wildlife | 3 | 2023-10-01 to 2025-10-01 |
 | `title-90-planning-research-and-development` | Montana Code Annotated, Title 90: Planning, Research, and Development | 5 | 2023-10-01 to 2035-07-01 |
 
-The build made 143 commits:
+The build made 146 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -96,7 +101,7 @@ When a law gives no date of its own, the default rule applies: MCA 1-2-201(1)(a)
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `16c6186c8c2084f2b451dabd30122e8774d923e7a6484b1fa4d5aadf6deb52ad` (190055862 bytes).
+- Corpus: sha256 `49c2e808827ada60e65fef91ed4bb7657b8ece9113ab5d6faadb2e0b5a349ac0` (191265052 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -114,6 +119,7 @@ No second build of this corpus has been compared yet.
 - The four acts of the first build (the Constitution, Titles 35, 45 and 70; one version dated 2026-10-28, the retrieval day) keep that commit; as their pages are read again, correction commits add the 2023 and 2025 editions before it and set its text to the text the shipped parser reads from the pages.
 - Each section keeps its History note (the session laws behind it) as its last line; no compiler's comments, cross-references or annotations are taken.
 - Section pages are read in place; "Repealed" and "Reserved" pages the code prints are kept as the code prints them.
+- Title 67 has earlier consolidated texts from the official 2017 and 2019 editions. Their latest amendments took effect on 2015-10-01 and 2019-07-01, respectively; the source edition labels are retained. These historical versions do not establish continuity for the unsourced 2021 edition.
 
 ## What AI did and did not do
 
@@ -124,4 +130,4 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
-- none
+- A model wrote parsing and verification code and reviewed source date metadata. All statutory words and punctuation come from the official HTML; no OCR or model-written law text.

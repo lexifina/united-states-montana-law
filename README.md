@@ -29,7 +29,7 @@ The Legislative Services Division publishes the Montana Code Annotated as one st
 
 ## What it does not show
 
-- History before the 2023 edition. The 2021 edition is not on the host, so the 2017 and 2019 editions (which are) would leave October 2021 to October 2023 without text.
+- Most title histories begin with the 2023 edition. Title 67 also includes the official 2017 and 2019 editions. The 2021 edition remains outside this record, so continuous coverage across that interval is not asserted.
 - Contingent forms of sections (above).
 - Compiler's comments, cross-references and other annotations; session laws; rules.
 - Nothing here is an official publication: the printed MCA prevails over the Internet version.
@@ -38,8 +38,12 @@ The Legislative Services Division publishes the Montana Code Annotated as one st
 
 - Every unit is read back from git on its day and compared with the corpus (`tools/check_repo.py`; results in `REPRODUCE.md`).
 - Each source is identified by its sha256, in `data/versions.json`.
-- `tools/parse_mca.py` and `tools/mt_corpus.py` rebuild the corpus from saved copies of the official pages.
+- Lexifina's code rebuild the corpus from saved copies of the official pages.
 
 ## What "author" means
 
 The first commit of each act is authored by the publisher (the Montana Legislative Services Division), as the oldest version available. Later versions are the publisher's later editions. The committer is always Lexifina.
+
+## Earlier Title 67 texts
+
+The official 2017 edition is dated 1 October 2015, the effective day of its latest cited amendment, Chapter 220, Laws of 2015 (HB 99). The official 2019 edition is dated 1 July 2019 under section 16 of Chapter 455, Laws of 2019 (HB 661). The official session-law volumes establish these dates. Both texts retain every listed section and its History note. They were added through labelled correction commits; the previously published commits remain intact.
